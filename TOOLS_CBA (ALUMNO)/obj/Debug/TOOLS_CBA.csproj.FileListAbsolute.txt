@@ -1,0 +1,42 @@
+C:\Users\mec\source\repos\TOOLS_CBA\bin\Debug\TOOLS_CBA.exe.config
+C:\Users\mec\source\repos\TOOLS_CBA\bin\Debug\TOOLS_CBA.exe
+C:\Users\mec\source\repos\TOOLS_CBA\bin\Debug\TOOLS_CBA.pdb
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.csprojAssemblyReference.cache
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.Form1.resources
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.Properties.Resources.resources
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.csproj.GenerateResource.cache
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.csproj.CoreCompileInputs.cache
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.exe
+C:\Users\mec\source\repos\TOOLS_CBA\obj\Debug\TOOLS_CBA.pdb
+D:\Escritorio\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.exe.config
+D:\Escritorio\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.exe
+D:\Escritorio\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.pdb
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.AssemblyReference.cache
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.Form1.resources
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.Properties.Resources.resources
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.GenerateResource.cache
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.CoreCompileInputs.cache
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.exe
+D:\Escritorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.pdb
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.exe.config
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.exe
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.pdb
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.Form1.resources
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.exe
+C:\Users\Gustavo\Desktop\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.exe.config
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\bin\Debug\TOOLS_CBA.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.Form1.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.Properties.Resources.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\26) 04-07-2023 - Recuperatorio\TOOLS_CBA (ALUMNO)\obj\Debug\TOOLS_CBA.pdb
